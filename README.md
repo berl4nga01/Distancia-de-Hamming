@@ -34,6 +34,8 @@ Linux (comandos para instalação):
 - `cd Distancia-de-Hamming`
 - `node ./main.js`
 
+Obs: Caso de outros gerenciadores de pacote, só adaptar o comando.
+
 Windows:
 - Instale o Node.js e Git pelos sites originais;
 - Abra o Git CMD
