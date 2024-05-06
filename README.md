@@ -39,8 +39,10 @@ Windows:
 - Instale o nodejs e github pelos sites originais;
 - Abra o git cmd
 - Execute `git clone https://github.com/berl4ngaa/Distancia-de-Hamming`
-- Após o fim do primeiro comando, execute `cd Distancia-de-Hamming`
-- Após o fim do segundo segundo comando, execute `node ./main.js`
+- Feche o git cmd
+- Abra o cmd
+- Acesse o conteúdo do projeto (`cd Distancia-de-Hamming`)
+- Execute `node ./main.js`
 
 Obs: Caso queira alterar o código, com QUALQUER editor de texto pode-se alterar o código. 
 
