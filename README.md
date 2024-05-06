@@ -37,7 +37,7 @@ Linux (comandos para instalação):
 
 Windows: 
 - Instale o nodejs e github pelos sites originais;
-- Abra o cmd (ou powershell)
+- Abra o git cmd
 - Execute `git clone https://github.com/berl4ngaa/Distancia-de-Hamming`
 - Após o fim do primeiro comando, execute `cd Distancia-de-Hamming`
 - Após o fim do segundo segundo comando, execute `node ./main.js`
